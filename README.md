@@ -1,2 +1,0 @@
-# Mkdir-testgit
-Cd NewProject
